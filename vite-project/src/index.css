@@ -1,0 +1,17 @@
+#change-btn{
+
+border-radius: 20px;
+height: 40px;
+border-style: none;
+width: 150px;
+background-color: rgb(117, 157, 230);
+color: aliceblue;
+font-weight: bold;
+font-size: 12px;
+}
+
+#change-btn:hover{
+
+  transform: scale(1.1);
+
+}
